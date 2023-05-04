@@ -1,0 +1,29 @@
+{
+  "scss.lint.unknownAtRules": "ignore",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[php]": {
+    "editor.defaultFormatter": "Sophisticode.php-formatter"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "snyk.yesWelcomeNotification": false,
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "cSpell.language": "pt-BR",
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": false,
+  "liveServer.settings.file": "index.html",
+  "redhat.telemetry.enabled": true,
+  "svelte.enable-ts-plugin": true,
+  "yaml.schemas": {
+    "file:///Users/tuliocalil/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "svelte.plugin.svelte.note-new-transformation": false
+}
